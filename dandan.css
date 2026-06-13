@@ -39,17 +39,14 @@ body{
   margin-right:6%;
   font-size: 13px;
   font-weight: bold;
-   
-  
-}
+  }
 
 .top-links a{
   
  text-decoration: underline;
   
   color: #807c7c;
- 
-}
+ }
 
 .pageflex{
   display: flex;
@@ -110,8 +107,9 @@ box-shadow:
   outline: none;
   
   transition: border-color 0.2s ease-in-out ;  
-  
-}
+  }
+
+
 input:hover {
   border-color: #007bff;
 }
